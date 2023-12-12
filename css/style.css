@@ -45,6 +45,8 @@ body {
 #title{
     font-size: 2.25rem;
     position: relative;
+    justify-content: center;
+    display: flex;
 }
 
 #title::after {
